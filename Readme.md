@@ -1,8 +1,6 @@
 <div align="center">
-
 <!-- BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Financial%20Fraud%20Detection%20%26%20Risk%20Monitoring%20System&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Production-Grade%20ML%20%7C%20Fraud%20Analytics%20%7C%20Interactive%20Dashboard&descAlignY=55&descSize=16" width="100%"/>
-
 <br/>
 
 <!-- BADGES -->
