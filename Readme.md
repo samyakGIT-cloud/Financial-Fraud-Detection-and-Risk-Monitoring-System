@@ -1,7 +1,8 @@
 <div align="center">
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Financial%20Fraud%20Detection%20%26%20Risk%20Monitoring%20System&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Production-Grade%20ML%20%7C%20Fraud%20Analytics%20%7C%20Interactive%20Dashboard&descAlignY=55&descSize=16" width="100%"/>
-<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E40AF,100:06B6D4&text=Financial%20Fraud%20Detection%20System&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20Risk%20Analytics%20|%20Interactive%20Dashboard&descAlignY=60&descSize=18" width="100%"/>
+
+</div>
 
 <!-- BADGES -->
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
